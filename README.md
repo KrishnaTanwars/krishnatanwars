@@ -21,7 +21,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
+
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
@@ -32,7 +32,6 @@
 <a target="_blank" href="https://www.instagram.com/KrishnaTanwars" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="undefined@krishnatanwars" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://www.youtube.com/@KrishnaTanwars" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaTanwars&show_icons=true&locale=en" alt="KrishnaTanwars" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaTanwars&" alt="KrishnaTanwars" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaTanwars&show_icons=true&locale=en&layout=compact" alt="KrishnaTanwars" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KrishnaTanwars" alt="KrishnaTanwars" /></a></p>
