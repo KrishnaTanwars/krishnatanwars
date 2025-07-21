@@ -46,29 +46,14 @@
 
 ## 📌 Featured AI & Data Science Projects
 
-- 🤖 [AI Agent for Weather](https://github.com/KrishnaTanwars/AI_Agent_for_Weather)  
-  ➤ A command-line assistant powered by OpenAI that provides real-time weather info using natural language.
-
-- ✉️ [AI Cold Email Generator](https://github.com/KrishnaTanwars/AI_Powered_Cold_Email_Generator)  
-  ➤ Uses OpenAI to generate personalized cold emails automatically for outreach.
-
-- ⚡ [Delhi Electricity Demand Prediction](https://github.com/KrishnaTanwars/Delhi_Electricity_Demand_Prediction)  
-  ➤ Time-series based ML model that forecasts future electricity demand.
-
-- 🧬 [Diabetes Prediction ML Model](https://github.com/KrishnaTanwars/Daibetes_Prediction_Model_ML)  
-  ➤ Logistic regression-based project that predicts the likelihood of diabetes using patient data.
-
-- 🎥 [Real-Time Video Analysis ML](https://github.com/KrishnaTanwars/Real_Time_Video_Analysis_ML_Project)  
-  ➤ Integrates ML with OpenCV for object detection and analysis in live video streams.
-
-- 🚗 [Transportation Demand Prediction](https://github.com/KrishnaTanwars/Transportation-Demand-Prediction)  
-  ➤ Predicts city transport demand using regression techniques and real-world data.
-
-- 🌾 [Crop Yield Prediction (ML)](https://github.com/KrishnaTanwars/Crop_Yield_Production_ML_Project)  
-  ➤ Uses machine learning to predict crop yield and help with agriculture planning.
-
-- 🌦️ [Weather Analysis using Web Scraping](https://github.com/KrishnaTanwars/Weather_Analysis_Using_Web_Scraping)  
-  ➤ Scrapes real-time weather data and analyzes it using Python and visualization libraries.
+| Project | Description |
+|--------|-------------|
+| 🤖 [AI Agent for Weather](https://github.com/KrishnaTanwars/AI_Agent_for_Weather) | A command-line assistant powered by OpenAI that provides real-time weather info using natural language. |
+| ✉️ [AI Cold Email Generator](https://github.com/KrishnaTanwars/AI_Powered_Cold_Email_Generator) | Uses OpenAI to generate personalized cold emails automatically for outreach. |
+| 🧬 [Diabetes Prediction ML Model](https://github.com/KrishnaTanwars/Daibetes_Prediction_Model_ML) | Logistic regression-based project that predicts the likelihood of diabetes using patient data. |
+| 🎥 [Real-Time Video Analysis ML](https://github.com/KrishnaTanwars/Real_Time_Video_Analysis_ML_Project) | Integrates ML with OpenCV for object detection and analysis in live video streams. |
+| 🚗 [Transportation Demand Prediction](https://github.com/KrishnaTanwars/Transportation-Demand-Prediction) | Predicts city transport demand using regression techniques and real-world data. |
+| 🌦️ [Weather Analysis using Web Scraping](https://github.com/KrishnaTanwars/Weather_Analysis_Using_Web_Scraping) | Scrapes real-time weather data and analyzes it using Python and visualization libraries. |
 
 ---
 
