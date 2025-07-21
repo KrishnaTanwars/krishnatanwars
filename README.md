@@ -39,7 +39,7 @@
 ## ⚒️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgresql,pandas,numpy,matplotlib,seaborn,tensorflow,scikit-learn,vscode,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,pandas,scikit-learn,vscode,git,github,js" />
 </div>
 
 ---
