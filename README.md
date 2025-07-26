@@ -46,16 +46,14 @@
 
 ## 📌 Featured AI & Data Science Projects
 
-| Project | Description |
-|--------|-------------|
-| 🤖 [AI Agent for Weather](https://github.com/KrishnaTanwars/AI_Agent_for_Weather) | A command-line assistant powered by OpenAI that provides real-time weather info using natural language. |
-| ✉️ [AI Cold Email Generator](https://github.com/KrishnaTanwars/AI_Powered_Cold_Email_Generator) | Uses OpenAI to generate personalized cold emails automatically for outreach. |
-| 🧬 [Diabetes Prediction ML Model](https://github.com/KrishnaTanwars/Daibetes_Prediction_Model_ML) | Logistic regression-based project that predicts the likelihood of diabetes using patient data. |
-| 🎥 [Real-Time Video Analysis ML](https://github.com/KrishnaTanwars/Real_Time_Video_Analysis_ML_Project) | Integrates ML with OpenCV for object detection and analysis in live video streams. |
-| 🚗 [Transportation Demand Prediction](https://github.com/KrishnaTanwars/Transportation-Demand-Prediction) | Predicts city transport demand using regression techniques and real-world data. |
-| 🌦️ [Weather Analysis using Web Scraping](https://github.com/KrishnaTanwars/Weather_Analysis_Using_Web_Scraping) | Scrapes real-time weather data and analyzes it using Python and visualization libraries. |
+| 💡 Project Title | 📝 Description |
+|------------------|----------------|
+| 🧠 [Coders of Delhi — Pure Python Social Network](https://github.com/KrishnaTanwars/Coders-of-Delhi-DS-Project) | Simulates a social network using only raw Python — includes data cleaning, friend & page recommendations. |
+| 🎥 [Real-Time ML Video Analyzer](https://github.com/KrishnaTanwars/Real_Time_Video_Analysis_ML_Project) | Live video processing app for detecting humans, objects, emotions, and vehicles using OpenCV & Flask. |
+| ✉️ [AI Cold Email Generator](https://github.com/KrishnaTanwars/AI_Powered_Cold_Email_Generator) | Automatically generates smart, personalized cold emails for job outreach using OpenAI and Streamlit. |
+| 🧬 [Diabetes Risk Predictor (SVM)](https://github.com/KrishnaTanwars/Daibetes_Prediction_Model_ML) | Predicts the risk of diabetes using Support Vector Machine trained on medical data. |
+| 🤖 [AI CLI Weather Assistant](https://github.com/KrishnaTanwars/AI_Agent_for_Weather) | Node.js-based command-line assistant that answers weather queries using OpenAI's natural language understanding. |
 
----
 
 ## 🐍 My Contributions
 
