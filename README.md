@@ -4,17 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna!;" />
 </h1>
 
-<h3 align="center">Aspiring Data Scientist | Python & SQL Enthusiast | 3rd Year B.Tech CSE Student</h3>
+<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Excel • Python | 3rd Year B.Tech CSE Student</h3>
 
 ---
 
 <div align="center">
 
-🔍 Currently focused on: **Data Science, Machine Learning, Python & SQL Projects**  
-📊 Learning daily: **EDA, Statistics, Scikit-Learn, Matplotlib, Pandas, Power BI**  
-💼 Career goal: **To become a Data Analyst / Data Scientist by 2025**  
-💬 Ask me about: **Python, SQL, ML Projects, Data Analysis, or AI tools**  
-🧠 Fun fact: I built an **AI-powered Cold Email Generator** and a **Weather Assistant using OpenAI API**.
+📊 Currently focused on: **Data Analytics, Excel Automation, Power BI Dashboards, SQL Queries**  
+🔍 Learning daily: **EDA, Statistics, Pandas, NumPy, Matplotlib, DAX, Power Query**  
+💼 Career goal: **To become a Professional Data Analyst**  
+💬 Ask me about: **Power BI Dashboards, Excel Analysis, SQL Queries, Python EDA**  
+🧠 Fun fact: I’ve built **automated P&L reports**, **sales dashboards**, and **Python-based data analysis projects**.
 
 </div>
 
@@ -39,21 +39,22 @@
 ## ⚒️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,vscode,git,github,js" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,postgresql,excel,vscode,git,github" />
 </div>
 
 ---
 
-## 📌 Featured AI & Data Science Projects
+## 📌 Featured Data Analytics Projects
 
 | 💡 Project Title | 📝 Description |
 |------------------|----------------|
-| 🧠 [Coders of Delhi — Pure Python Social Network](https://github.com/KrishnaTanwars/Coders-of-Delhi-DS-Project) | Simulates a social network using only raw Python — includes data cleaning, friend & page recommendations. |
-| 🎥 [Real-Time ML Video Analyzer](https://github.com/KrishnaTanwars/Real_Time_Video_Analysis_ML_Project) | Live video processing app for detecting humans, objects, emotions, and vehicles using OpenCV & Flask. |
-| ✉️ [AI Cold Email Generator](https://github.com/KrishnaTanwars/AI_Powered_Cold_Email_Generator) | Automatically generates smart, personalized cold emails for job outreach using OpenAI and Streamlit. |
-| 🧬 [Diabetes Risk Predictor (SVM)](https://github.com/KrishnaTanwars/Daibetes_Prediction_Model_ML) | Predicts the risk of diabetes using Support Vector Machine trained on medical data. |
-| 🤖 [AI CLI Weather Assistant](https://github.com/KrishnaTanwars/AI_Agent_for_Weather) | Node.js-based command-line assistant that answers weather queries using OpenAI's natural language understanding. |
+| 📊 **Business 360 Power BI Dashboard** | Multi-source Power BI dashboard using SQL + Excel to analyze global sales, revenue trends & KPIs. |
+| 📈 **Sales Insights (SQL + Power BI)** | Analyzed 4 years of sales data, built interactive dashboards & improved revenue forecasting. |
+| 📘 **Automated P&L Report – Excel** | Automated Profit & Loss Report using Power Query, reducing manual work by 4+ hours. |
+| 🏨 **Hospitality Data Analysis – Python** | Cleaned, preprocessed & analyzed hotel booking & revenue data using Pandas + Matplotlib. |
+| 🏠 **Gurgaon House Price Analysis – Python** | Full EDA on housing prices with insights on pricing trends, correlations & features. |
 
+---
 
 ## 🐍 My Contributions
 
@@ -74,4 +75,4 @@
 
 ---
 
-> ⚡ *Let’s decode data, one dataset at a time.*
+> ⚡ *Let’s unlock insights — one dataset at a time.*
