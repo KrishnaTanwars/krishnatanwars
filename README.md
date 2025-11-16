@@ -23,13 +23,13 @@
 ## 📬 Connect with Me
 
 <div align="center"> 
-  <a href="mailto:kstanwar0000@gmail.com">
+  <a href="mailto:kstanwar0000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/krishnatanwars" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/KrishnaTanwars" target="_blank">
+  <a href="https://codebasics.io/portfolio/Krishna" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -39,20 +39,20 @@
 ## ⚒️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,postgresql,excel,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,vscode,git,github" />
 </div>
 
 ---
 
-## 📌 Featured Data Analytics Projects
-
 | 💡 Project Title | 📝 Description |
 |------------------|----------------|
-| 📊 **Business 360 Power BI Dashboard** | Multi-source Power BI dashboard using SQL + Excel to analyze global sales, revenue trends & KPIs. |
-| 📈 **Sales Insights (SQL + Power BI)** | Analyzed 4 years of sales data, built interactive dashboards & improved revenue forecasting. |
-| 📘 **Automated P&L Report – Excel** | Automated Profit & Loss Report using Power Query, reducing manual work by 4+ hours. |
-| 🏨 **Hospitality Data Analysis – Python** | Cleaned, preprocessed & analyzed hotel booking & revenue data using Pandas + Matplotlib. |
-| 🏠 **Gurgaon House Price Analysis – Python** | Full EDA on housing prices with insights on pricing trends, correlations & features. |
+| 🏨 [Hotel Sales Performance Dashboard – Power BI](https://github.com/KrishnaTanwars/Hotel-Sales-Performance-Dashboard-PowerBI) | Interactive Power BI dashboard analyzing hotel sales across multiple cities using 5 relational datasets. Tracks bookings, revenue, occupancy rates & customer satisfaction. |
+| 🏢 [Business Insights 360 – Power BI Dashboard](https://github.com/KrishnaTanwars/Business-Insights-360-PowerBI-Dashboard) | Comprehensive BI dashboard for AtliQ Hardwares covering Finance, Sales, Marketing & Supply Chain. Built using Power Query, DAX & optimized data modeling. |
+| 📘 [Excel Reports Portfolio](https://github.com/KrishnaTanwars/Excel-Reports-Portfolio) | Portfolio of Excel-based Sales, Customer & Financial analytics projects using Power Query, Power Pivot, DAX & automated dynamic reporting. |
+| 🧾 [Sales & Finance Analytics – Excel/Power BI](https://github.com/KrishnaTanwars/sales-finance-analytics) | Data analytics project delivering Customer Performance, Market vs Target analysis & automated P&L reporting using DAX, Power Query & Power Pivot. |
+| 🧹 [Hospitality Data Analysis – Python](https://github.com/KrishnaTanwars/Hospitality-Data-Analysis-Python) | Python-based analysis of hotel bookings: revenue trends, occupancy distribution, booking behavior & city-wise performance using Pandas & Matplotlib. |
+| 🏠 [Gurgaon House Price Prediction – Python/ML](https://github.com/KrishnaTanwars/Gurgaon-House-Price-Prediction-Using-ML) | Machine Learning model using Random Forest to predict house prices. Includes EDA, feature engineering, preprocessing & model evaluation. |
+| 🧠 [Coders of Delhi – Python Data Project](https://github.com/KrishnaTanwars/Coders-of-Delhi-DS-Project) | Pure Python data science project simulating a social network with data cleaning, friend suggestions & recommendation logic. |
 
 ---
 
