@@ -45,7 +45,7 @@
 ## ⚒️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,flask,git,github,vscode" alt="Technical skills" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,flask,git,github,gitlab,vscode" alt="Technical skills" />
 </div>
 
 <div align="center">
@@ -74,7 +74,7 @@
 
 | Project | Description |
 |---|---|
-| [Sales & Customer Performance Analytics](https://github.com/KrishnaTanwars/Sales-Customer-Performance-Analytics) | SQL-based analysis of sales and customer performance. |
+| [Sales & Customer Performance Analytics](https://github.com/KrishnaTanwars/Sales-Customer-Performance-Analytics-) | SQL-based analysis of sales and customer performance. |
 | [Business Insights 360 – Power BI](https://github.com/KrishnaTanwars/Business-Insights-360-PowerBI-Dashboard) | Interactive business intelligence dashboard covering finance, sales, marketing, and supply chain metrics. |
 | [Credit Card Spend & Financial Insights](https://github.com/KrishnaTanwars/Credit-Card-Spend-and-Financial-Insights-PowerBI) | Financial analytics project using Power BI to explore spending and business performance. |
 
